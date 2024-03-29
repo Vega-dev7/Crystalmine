@@ -17,5 +17,7 @@ The Community is in GitHub.com, we will open a discord server soon.
 Open a issue and the developers will come and help. 
 # contribution
 We Do not accept Contribution at the moment we will accept them when contributions are accepted, and make a contribution guideline Soon! 
+# About the Bot
+Crystalmine is a discord bot that is about collecting gems and buying pets and making powerful crystals to make more stuff. 
 # adding the bot 
 Add the bot with this [link](https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot) The bot is in Beta development. 
