@@ -3,5 +3,6 @@
 [![Discord Libary](https://img.shields.io/badge/Eris-green.svg)](https://github.com/abalabahaha/eris) 
 [![Issues](https://img.shields.io/github/issues/Topaz-dev7/Crystalmine)](https://github.com/Topaz-dev7/Crystalmine/issues)
 [![Linktree](https://img.shields.io/badge/My-Linktree-blue.svg)](https://linktr.ee/topaz.dev)
+[![Chalk](https://img.shields.io/badge/Chalk-orange.svg)](https://github.com/chalk/chalk) 
 # adding the bot 
 add the bot with this link:https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot
