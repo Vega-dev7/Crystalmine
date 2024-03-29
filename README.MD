@@ -5,9 +5,9 @@
 [![Linktree](https://img.shields.io/badge/My-Linktree-blue.svg)](https://linktr.ee/topaz.dev)
 [![Chalk](https://img.shields.io/badge/Chalk-orange.svg)](https://github.com/chalk/chalk) 
 # Languages and packages and Libaries Used
->> - Typescript
-- Chalk
-- Eris 
+> - Typescript
+> - Chalk
+> - Eris 
 
 # adding the bot 
-add the bot with this link:https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot
+add the bot with this [link:](https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot)
