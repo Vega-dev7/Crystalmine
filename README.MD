@@ -2,6 +2,7 @@
 # Crystalmine
 [![Language](https://img.shields.io/badge/TypeScript-blue.svg)](https://github.com/microsoft/TypeScript)
 [![Discord Libary](https://img.shields.io/badge/Eris-green.svg)](https://github.com/abalabahaha/eris) 
+[![Discord API](https://img.shields.io/badge/Discord-API-blue.svg)](https://github.com/discord/discord-api-docs) 
 [![Issues](https://img.shields.io/github/issues/Topaz-dev7/Crystalmine)](https://github.com/Topaz-dev7/Crystalmine/issues)
 [![Linktree](https://img.shields.io/badge/My-Linktree-blue.svg)](https://linktr.ee/topaz.dev)
 [![Chalk](https://img.shields.io/badge/Chalk-orange.svg)](https://github.com/chalk/chalk) 
