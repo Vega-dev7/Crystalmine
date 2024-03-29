@@ -8,6 +8,14 @@
 > - Typescript
 > - Chalk
 > - Eris 
-
+# License and Distribution
+This Repository Is a licensed Under the [MIT LICENSE](https://opensource.org/license/mit) 
+And if distributing this Bot Credits to The original Owner Must not be removed. 
+# Our Community
+The Community is in GitHub.com, we will open a discord server soon. 
+# Reporting Bugs
+Open a issue and the developers will come and help. 
+# contribution
+We Do not accept Contribution at the moment we will accept them when contributions are accept, and make a contribution guideline Soon! 
 # adding the bot 
-add the bot with this [link:](https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot)
+Add the bot with this [link](https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot) The bot is in Beta development. 
