@@ -1,5 +1,5 @@
 # Crystalmine
-[![Made using](https://img.shields.io/badge/Typescript-blue.svg)](https://github.com/microsoft/TypeScript)
+[![Made using](https://img.shields.io/badgeTypeScript-blue.svg)](https://github.com/microsoft/TypeScript)
 [![Discord Libary](https://img.shields.io/badge/Eris-green.svg(https://github.com/abalabahaha/eris) 
 
 # adding the bot 
