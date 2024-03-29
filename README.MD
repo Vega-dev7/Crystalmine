@@ -23,6 +23,6 @@ We Do not accept Contribution at the moment we will accept them when contributio
 # About the Bot
 Crystalmine is a discord bot that is about collecting gems and buying pets and making powerful crystals to make more stuff. 
 # adding the bot 
-Add the bot with this [link](https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot) The bot is in Beta development. 
+Add the bot with this [link](https://discord.com/api/oauth2/authorize?client_id=1167817917111480450&permissions=70368744177655&scope=bot) 
 # Extra Information
-Keep in mind that this repository may get some new commits soon and that The bot is still in Beta
+Keep in mind that this repository may get some new commits and the bot may get new updates
