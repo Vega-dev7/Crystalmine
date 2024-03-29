@@ -20,7 +20,7 @@ bot.on('messageCreate', (msg: Message) => {
         const embed = {
             title: 'CrystalMine',
             description: 'CrystalMine is a bot used to trade crystals for pets and items and more stuff. This bot is written in Typescript. The author of the bot is topaz.dev',
-            footer: { text: 'Version 1.0.0 (beta) Made With 💖 by *Topaz* ' }, 
+            footer: { text: 'Version 1.0.0 Made With 💖 by Topaz ' }, 
             color: 0x87CEEB, 
         };
         bot.createMessage(msg.channel.id, { embed });
@@ -36,7 +36,7 @@ bot.on('messageCreate', (msg: Message) => {
                 { name: 'C!Inventory', value: 'Check Your Inventory' }
             ],
             color: 0x87CEEB,
-            footer: { text: 'Version 1.0.0 (beta) Made With 💖 by Topaz ' }, 
+            footer: { text: 'Version 1.0.0 Made With 💖 by Topaz ' }, 
         };
         bot.createMessage(msg.channel.id, { embed });
     } else if (msg.content === 'C!Code') {
@@ -49,7 +49,7 @@ bot.on('messageCreate', (msg: Message) => {
                 { name: 'Topaz (Owner)', value: 'Topaz Was the one who created the bot and coded most of the bot.'}
             ], 
             color: 0x87CEEB,
-            footer: { text: 'Version 1.0.0 (beta) Made With 💖 by Topaz ' }, 
+            footer: { text: 'Version 1.0.0 Made With 💖 by Topaz ' }, 
         };
         bot.createMessage(msg.channel.id, { embed });
     } else if (msg.content === 'C!Inventory') {
@@ -62,7 +62,7 @@ bot.on('messageCreate', (msg: Message) => {
                 title: `${msg.author.username}'s Inventory`,
                 description: userInventory.join(', '),
                 color: 0x00FF00, 
-                footer: { text: 'Version 1.0.0 (beta) Made With 💖 by Topaz ' }, 
+                footer: { text: 'Version 1.0.0  Made With 💖 by Topaz ' }, 
             };
             bot.createMessage(msg.channel.id, { embed });
         }
@@ -97,7 +97,7 @@ bot.on('messageCreate', (msg: Message) => {
             title: 'Ruby Crystal Spawned!',
             description: 'You have got one ruby crystal',
             color: 0xFF0000, 
-            footer: { text: 'Version 1.0.0 (beta) Made With 💖 by Topaz ' }, 
+            footer: { text: 'Version 1.0.0 Made With 💖 by Topaz ' }, 
         };
         bot.createMessage(msg.channel.id, { embed });
     }
