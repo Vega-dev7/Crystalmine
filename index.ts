@@ -69,22 +69,6 @@ bot.on('messageCreate', (msg: Message) => {
     } else if (msg.content === 'C!Mine') {
         const userId = msg.author.id;
         
-        if (cooldowns[userId] && Date.now() - cooldowns[userId] < 10000) {
-            
-            attempts[userId] = attempts[userId] ? attempts[userId] + 1 : 1;
-            
-            if (attempts[userId] > 3) {
-                bot.createMessage(msg.channel.id, 'You are still on cooldown. Please wait before mining again.');
-                return;
-            }
-            bot.createMessage(msg.channel.id, 'You are on cooldown. Please wait before mining again.');
-            return;
-        }
-
-        
-        attempts[userId] = 0;
-        
-        cooldowns[userId] = Date.now();
         const crystalType = 'Ruby'; 
         if (!inventoryData[userId]) {
             inventoryData[userId] = [crystalType];
