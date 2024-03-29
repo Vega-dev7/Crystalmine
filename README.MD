@@ -1,4 +1,5 @@
 # Crystalmine
+[![Made using](https://img.shields.io/badge/Typescript-blue.svg)](https://github.com/microsoft/TypeScript)
 Crystal is a discord bot Collect gems and crystals and trade them with your friends and buy pets! 
 
 # adding the bot 
