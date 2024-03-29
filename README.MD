@@ -12,6 +12,7 @@
 > - Eris 
 > - Discord API
 > - JSON
+> - FS
 # License and Distribution
 This Repository Is licensed Under the [MIT LICENSE](https://opensource.org/license/mit) 
 And if distributing this Bot Credits to The original Owner Must not be removed. 
