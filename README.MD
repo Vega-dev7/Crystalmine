@@ -13,7 +13,7 @@
 > - Discord API
 > - JSON
 # License and Distribution
-This Repository Is a licensed Under the [MIT LICENSE](https://opensource.org/license/mit) 
+This Repository Is licensed Under the [MIT LICENSE](https://opensource.org/license/mit) 
 And if distributing this Bot Credits to The original Owner Must not be removed. 
 # Our Community
 The Community is in GitHub.com, we will open a discord server soon. 
