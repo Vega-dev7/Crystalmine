@@ -5,10 +5,11 @@
 [![Issues](https://img.shields.io/github/issues/Topaz-dev7/Crystalmine)](https://github.com/Topaz-dev7/Crystalmine/issues)
 [![Linktree](https://img.shields.io/badge/My-Linktree-blue.svg)](https://linktr.ee/topaz.dev)
 [![Chalk](https://img.shields.io/badge/Chalk-orange.svg)](https://github.com/chalk/chalk) 
-# Languages and packages and Libaries Used
+# Languages and packages and Libaries Used and APIS
 > - Typescript
 > - Chalk
 > - Eris 
+> - Discord API
 # License and Distribution
 This Repository Is a licensed Under the [MIT LICENSE](https://opensource.org/license/mit) 
 And if distributing this Bot Credits to The original Owner Must not be removed. 
