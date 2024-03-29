@@ -1,0 +1,21 @@
+{
+  "name": "CrystalMine",
+  "version": "1.0.0",
+  "description": "Crystalmine Discord bot",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "eris": "^0.17.2",
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "tsx": "^3.12.7"
+  }
+}
