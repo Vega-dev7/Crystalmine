@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&random=false&width=435&lines=this+Bot+is+Made+using%3A;Typescript;Eris+Discord+libary;Discord+API;Chalk;Also+this+bot+is+made+with+%E2%9D%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&random=false&width=435&lines=This+Bot+is+Made+Using%3A;Typescript;Discord+API+and+The+Eris+discord+libary;Chalk;Also+This+bot+is+made+with+%F0%9F%92%96)](https://git.io/typing-svg)
 # Crystalmine
 [![Language](https://img.shields.io/badge/TypeScript-blue.svg)](https://github.com/microsoft/TypeScript)
 [![Discord Libary](https://img.shields.io/badge/Eris-green.svg)](https://github.com/abalabahaha/eris) 
