@@ -85,8 +85,8 @@ bot.on('messageCreate', (msg: Message) => {
         fs.writeFileSync('inventory.json', JSON.stringify(inventoryData, null, 2));
 
         const embed = {
-            title: 'Ruby Crystal Spawned!',
-            description: 'A ruby crystal has appeared in your mine!',
+            title: 'You Got 1 Crystal!',
+            description: 'A ruby crystal has been added to your inventory!',
             color: 0xFF0000, 
             footer: { text: 'Version 1.0.0 (beta) Made With 💖 by Topaz ' }, 
         };
